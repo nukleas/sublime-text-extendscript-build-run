@@ -1,0 +1,4 @@
+{
+    "cmd": ["compilejsx.py","$file"],
+    "shell": true
+}
